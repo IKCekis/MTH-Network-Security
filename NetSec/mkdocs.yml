@@ -1,0 +1,10 @@
+site_name: Ismet Kaan Cekis
+nav:
+  - Home: index.md
+  - Subjects:
+    - Network Security Strategies:
+      - Introduction: ./NetworkSecurityStrategies/introduction.md
+      - Physical Security: ./NetworkSecurityStrategies/physical_security.md
+      - Software Security: ./NetworkSecurityStrategies/software_security.md
+      - Network Security: ./NetworkSecurityStrategies/network_security.md
+    - Network Security Applications and Tools: ./NetworkSecurityAppsAndTools/net_sec_apps_and_tools.md
